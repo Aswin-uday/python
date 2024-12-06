@@ -12,7 +12,7 @@ def product():
 def division():
     div=a/b
 for i in range(5):
-    print("the opertaion are 1.addition\n2.subtraction\n3.multiplication\n3division\n5.exit")
+    print("the opertaion  are 1.addition\n2.subtraction\n3.multiplication\n3division\n5.exit")
     operation=int(input("enter the number"))    
     if operation==1:
         add()
